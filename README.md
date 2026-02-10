@@ -39,5 +39,5 @@ This is a repository that contains the experiments jointly conducted with intern
   - ในโฟลเดอร์แต่ละโมเดลแยกย่อยตามค่า Temperature
   - Global_Analysis_Result.csv: ไฟล์สรุปผลภาพรวมของทุกการทดลอง
 - SourceCode: โค้ดที่ใช้ในการประมวลผล
-  - Execution_script.ipynb: สคริปต์ที่ใช้ประเมินผลการทดลองทั้งหมด
+  - Evaluation_script.ipynb: สคริปต์ที่ใช้ประเมินผลการทดลองทั้งหมด
   - สคริปต์รายโมเดลสำหรับการรัน ได้แก่ Deepseek-r1_8b_script.ipynb, Gemma3_1b_script.ipynb และ Qwen2.5_3b_script.ipynb
